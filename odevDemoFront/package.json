@@ -1,0 +1,41 @@
+{
+  "name": "react-login-signup-ui-template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bootstrap": "^4.3.1",
+    "moment": "^2.29.1",
+    "react": "^16.9.0",
+    "react-component-countdown-timer": "^0.1.8",
+    "react-cookie": "^4.1.1",
+    "react-countdown": "^2.3.2",
+    "react-datepicker": "^4.5.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.1.0",
+    "react-scripts": "3.1.2",
+    "react-session": "^0.0.1",
+    "react-session-control": "^2.0.12"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
